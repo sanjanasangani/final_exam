@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704992718993",
+    "project_id": "pretice-1287c",
+    "storage_bucket": "pretice-1287c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704992718993:android:6b1d383563bb5316a00f30",
+        "android_client_info": {
+          "package_name": "com.example.final_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkv0UqGV7IzOxbHrZThTudBJ8Xqr1nyTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
